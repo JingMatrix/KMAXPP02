@@ -29,9 +29,9 @@ Le calendrier complet des cours et les **salles exactes de TP** sont disponibles
 | **A12** | 1 | 20/03/2026 | Jianyu Ma | 24/03/2026 | *Expiré* |
 | **A12** | 2 | 22/05/2026 | Jianyu Ma | 26/05/2026 | [TP2_A12](https://pigeonfiles.com/u/p2029aqypjzyc36devkxgb) |
 | **A21** | 1 | 13/03/2026 | Alexey Lazarev | 17/03/2026 | *Expiré* |
-| **A21** | 2 | 24/04/2026 | Alexey Lazarev | 28/04/2026 | [TP2_A21](https://pigeonfiles.com/u/_l4yjejli8y_9tyt0ssb2o) |
+| **A21** | 2 | 24/04/2026 | Alexey Lazarev | 28/04/2026 | *Expiré* |
 | **A22** | 1 | 20/03/2026 | Alexey Lazarev | 24/03/2026 | *Expiré* |
-| **A22** | 2 | 22/05/2026 | Alexey Lazarev | 26/05/2026 | *À venir* |
+| **A22** | 2 | 22/05/2026 | Alexey Lazarev | 26/05/2026 | [TP2_A22](https://pigeonfiles.com/u/nc5mvm-3fx1lfy5dvnp0ij) |
 | **A31** | 1 | 27/03/2026 | Jianyu Ma | 31/03/2026 | *Expiré* |
 | **A31** | 2 | 29/05/2026 | Jianyu Ma | 02/06/2026 | *À venir* |
 
